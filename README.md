@@ -11,7 +11,7 @@ Official code for the paper:
 
 ---
 
-**Model Checkpoints** can be found on [Hugging Face](https://huggingface.co/brightside51/IbPRIA2025_Medical_GenSR_Pipeline)
+**Model Checkpoints** can be found on 🤗 [Hugging Face](https://huggingface.co/brightside51/IbPRIA2025_Medical_GenSR_Pipeline)
 
 **Abstract**
 Cancer is a leading cause of mortality worldwide, with breast and lung cancer being the most prevalent globally. Early and accurate diagnosis is crucial for successful treatment, and medical imaging techniques play a pivotal role in achieving this. This paper proposes a novel pipeline that leverages generative artificial intelligence to enhance medical images by combining synthetic image generation and super-resolution techniques. The framework is validated in two medical use cases (breast and lung cancers), demonstrating its potential to improve the quality and quantity of medical imaging data, ultimately contributing to more precise and effective cancer diagnosis and treatment. Overall, although some limitations do exist, this paper achieved satisfactory results for an image size which is conductive to specialist analysis, and further expands upon this field’s capabilities.
